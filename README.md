@@ -11,6 +11,11 @@ This project classifies forest landscapes into 11 land cover types — including
 **CRS:** EPSG:32630 (UTM Zone 30N)  
 **Season:** Dry season imagery (November–February) to minimize cloud cover
 
+## Example Output
+
+![ResNet50 classification result visualized in QGIS](assets/resnet50_result.png)
+*LULC classification result (ResNet50-based deep learning model) displayed in QGIS — Anwiaso East Forest Reserve, Ghana*
+
 ## Land Cover Classes
 
 | ID | Class | Description |
